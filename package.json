@@ -14,8 +14,6 @@
     "electron": "^4.0.0"
   },
   "dependencies": {
-    "python-shell": "^1.0.7",
-    "zeromq": "^5.1.0",
-    "zerorpc": "^0.9.8"
+    "python-shell": "^1.0.7"
   }
 }
